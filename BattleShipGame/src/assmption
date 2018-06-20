@@ -1,0 +1,26 @@
+1) No of missiles per player s kept constant and that is 4 per ship per player(can be taken as an input)
+2) Input is taken from a file, can be configured to take from keyboard
+3) Count of battle ship as been kept 2 but we can increase or can take it as an input through game console
+4) Its a 2 player game .
+5) No of battle ship will be same for both the players. In the sample there was no input for count of battle ship, so have kept it constant but can later change and get it from input
+6) Input will be in format like
+   boundaries of Battle Area  rows,column
+   Type Of Battle Ship  (P or Q)
+   Dimension Of BattleShip  column,rows
+   Location of battle ship 1 for player 1 rows,column
+   Location of battle ship 1 for Player 2 rows,column
+   Type of battle ship 2  (P or Q)
+   Dimension of battleship 2  column,rows
+   Location of battleship 2 for player 1 rows,column
+   Location of battleship 2 for Player 2 rows,column
+   
+   Missile target for player 1 and player2
+   
+ 
+ Win condition:
+ If a player destroy the enemy ship then he will declared as winner
+ 
+ Draw condition:
+ 1)	If there is no output and all the inputs are consumed then it is a draw.
+ 2) If both of them consumed their missiles with out any out put then its a draw.
+  
