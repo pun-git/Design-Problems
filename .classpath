@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BattleShipGame/src"/>
+	<classpathentry kind="src" path="HotelAutomationSystem/src"/>
+	<classpathentry kind="lib" path="BattleShipGame/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="HotelAutomationSystem/lib/junit-4.10.jar"/>
+	<classpathentry kind="output" path="BattleShipGame/bin"/>
+</classpath>
